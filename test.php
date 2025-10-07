@@ -1,1 +1,1 @@
-Test yazısı
+Test text
